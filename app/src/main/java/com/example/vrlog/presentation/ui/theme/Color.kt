@@ -1,4 +1,4 @@
-package com.example.vrlog.ui.theme
+package com.example.vrlog.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
